@@ -1,5 +1,0 @@
-ssh_key_path = "/home/engineer/.ssh"
-ovh_application_key = "14319b06fa2ad27f"
-ovh_application_secret = "16d7193865bd42bff3701c14d20bf5d1"
-ovh_consumer_key = "4e6e4a733806f1bdea7bfbb76392a9f0"
-domain_name = "olgamankoy.site"
