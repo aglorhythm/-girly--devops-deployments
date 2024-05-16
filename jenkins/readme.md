@@ -1,9 +1,6 @@
 # Jenkins deployments on AWS 🌸
 ## With Terraform and Ansible, using Nginx server 🌸
 
-# Jenkins Deployments on AWS 🌸
-## With Terraform and Ansible, using Nginx server 🌸
-
 Welcome to the Jenkins Deployment Project! This repository is dedicated to demonstrating how to deploy Jenkins on AWS using Terraform and Ansible, with Nginx serving as a reverse proxy. It’s an efficient, and streamlined approach to setting up a robust CI/CD environment.
 
 ## Project Overview 🌼
