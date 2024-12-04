@@ -1,3 +1,9 @@
+# ===================================
+# Author: @aglorhythm / girlysheet.cloud ✿
+# Description: This script will handle the 
+# creation of all things described inside our modules.
+# ===================================
+
 terraform {
   required_providers {
 

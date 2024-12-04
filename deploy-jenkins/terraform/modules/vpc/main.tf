@@ -1,5 +1,5 @@
 # ===================================
-# Author: @aglorhythm / jenkins.cloud ✿
+# Author: @aglorhythm / girlysheet.cloud ✿
 # Description: This module will handle VPC creation, subnets, and internet gateway setup.
 # ===================================
 
