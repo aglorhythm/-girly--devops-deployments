@@ -284,6 +284,24 @@
         <mxCell id="E0Y67ZahjIlyeAyK7CsU-4" value="Foreign Key" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="1015" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="E0Y67ZahjIlyeAyK7CsU-6" value="Ajout d&#39;un id (primary key par table)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="990" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E0Y67ZahjIlyeAyK7CsU-7" value="Separation de l&#39;attribut &quot;aired&quot; en deux afin de permettre des jointures et possibles calculs" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="1015" width="500" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E0Y67ZahjIlyeAyK7CsU-8" value="Association aux types FLOAT et INT pour eviter les erreurs et permettre les calculs pour les mises a jour" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="1040" width="580" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E0Y67ZahjIlyeAyK7CsU-9" value="Ajout de tables propre a chaque entite et association de leur foreign key pour creer des relations&amp;nbsp;&lt;div&gt;et eviter les erreurs d&#39;entrees manuelles&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="1065" width="540" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E0Y67ZahjIlyeAyK7CsU-10" value="&lt;b&gt;Justification&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="960" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E0Y67ZahjIlyeAyK7CsU-11" value="&lt;b&gt;Olga Amitousa-Mankoy&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="1120" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
